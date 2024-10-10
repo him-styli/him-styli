@@ -1,5 +1,4 @@
 👋 Hi, I’m @Himanshu
-
 👀 I’m interested in web development and open-source projects.
 🌱 I’m currently learning advanced JavaScript frameworks and cloud technologies.
 💞️ I’m looking to collaborate on exciting projects that involve MERN stack development.
